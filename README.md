@@ -28,7 +28,7 @@
   
 >Вся работа представлена в файле  
 <a href="https://github.com/ZverevaYuliya/data-analytics-5month/blob/main/Курсовой проект - Калькулятор юнит-экономики онлайн-кинотеатра .xlsx"> Калькулятор юнит-экономики онлайн-кинотеатра</a>.<br><br>
->Все выводы и итоги представлены в презентации <a href="https://docs.google.com/presentation/d/1SuXsRVd5tsB-rFtU6T8cj5V1kwX1-JQdKj0-pRJDY-Y/edit?usp=sharing">"Бизнес-модель работы кинотеатра «Скай-синема»"</a>.
+>Все выводы и итоги представлены в презентации <br><a href="https://docs.google.com/presentation/d/1SuXsRVd5tsB-rFtU6T8cj5V1kwX1-JQdKj0-pRJDY-Y/edit?usp=sharing">"Бизнес-модель работы кинотеатра «Скай-синема»"</a>.
 
 <br><br>
 <p> Проект 2: Калькулятор юнит-экономики онлайн-кинотеатра</p>
