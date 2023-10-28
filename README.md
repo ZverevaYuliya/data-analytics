@@ -59,7 +59,7 @@
 <p>Как решала: Импорт, анализ и объединие таблиц, чистка данных, расчет общих результатов АБ Теста и сегментация. Построение калькулятора.<p>
   
 >Дипломная работа представлена по <a href="https://colab.research.google.com/drive/1nSPT_YmxKruc3Z8QjsKefCUMqgDQuGO3#scrollTo=aVE3Ixg8Y-L1">ссылке</a>.<br><br>
->А также в файле <br><a href="https://github.com/ZverevaYuliya/data-analytics-10month/blob/main/Дипломная работа. SkyLenta.xlsx)">"Дипломная работа. SkyLenta"</a>.  
+>Калькулятор представлен по <br><a href="https://docs.google.com/spreadsheets/d/1Ny3b93C57rhvo-_BQ9mHb30avJy4q1HU/edit?usp=sharing&ouid=112150620691900238852&rtpof=true&sd=true))">ссылке</a>.  
   
 <p>Итог: В результате даны рекомендации по дальнешему запуску АБ-тестов и построен калькулятор для расчета кол-ва наблюдений.<p>
 
