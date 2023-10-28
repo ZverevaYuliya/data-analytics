@@ -41,8 +41,8 @@
 
 <p>Как решала: С помощью запросов SQL, с использованием CTE, join (+ по неравеству).<p>
   
->Курсовая работа представлена по <a href="https://metabase.sky.pro/question/65843)">ссылке</a>.<br><br>
->А также в файле <br><a href="https://github.com/ZverevaYuliya/data-analytics-10month/blob/main/Курсовая по SQL.xlsx)">"Курсовая по SQL"</a>.  
+>Курсовая работа представлена по <a href="https://docs.google.com/spreadsheets/d/1Yr4cUL4gygZs33tXreI9Zf5KLL1KKZFd/edit?usp=sharing&ouid=112150620691900238852&rtpof=true&sd=true">ссылке</a>.<br><br>
+>Код запроса по <a href="https://docs.google.com/document/d/12TeauNlCER5a-njwoGN-i0Q-QUctdv4b/edit?usp=sharing&ouid=112150620691900238852&rtpof=true&sd=true">ссылке</a>.  
   
 <p>Итог: В результате получился запрос, который собирает данные о балансах студентов за каждый "прожитый" ими день.<p>
 
